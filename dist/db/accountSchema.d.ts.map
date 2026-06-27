@@ -1,1 +1,0 @@
-{"version":3,"file":"accountSchema.d.ts","sourceRoot":"","sources":["../../src/db/accountSchema.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,EAAE,EAAe,QAAQ,EAAC,MAAM,UAAU,CAAC;AAG1D,UAAU,QAAQ;IACb,OAAO,CAAC,EAAC,MAAM,CAAC;IAChB,MAAM,CAAC,EAAC,QAAQ,CAAA;CAEpB;AAOC,QAAA,MAAM,OAAO;;;;;;iBAA2C,CAAC;AAE3D,eAAe,OAAO,CAAC"}

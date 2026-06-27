@@ -1,1 +1,0 @@
-{"root":["./src/config.ts","./src/index.ts","./src/routes/auth.ts","./src/routes/balance.ts","./src/routes/balanceinquiry.ts","./src/routes/transaction.ts","./src/routes/userrouter.ts","./src/db/accountschema.ts","./src/db/userschema.ts"],"version":"6.0.3"}
